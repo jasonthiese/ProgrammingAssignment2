@@ -7,7 +7,7 @@
 #
 # How these functions should be used:
 #
-# 1.  Pass a matrix of interest to the makeCacheMatrix object
+# 1.  Pass a matrix of interest to the makeCacheMatrix function
 #     and store the result in another variable.  
 #
 #     Note:     A convenient notation might be to give the new variable 
